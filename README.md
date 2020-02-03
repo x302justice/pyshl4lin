@@ -1,2 +1,2 @@
 # pyos4lin
-linux python os
+pyos4win port to linux that doen't suck ass(except for no bootanimation which is bad). all the same features, but abe to work on linux
